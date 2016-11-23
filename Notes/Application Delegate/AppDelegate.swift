@@ -4,7 +4,7 @@
 //
 //  Created by Bart Jacobs on 31/10/16.
 //  Copyright © 2016 Cocoacasts. All rights reserved.
-//
+//  http://courses.cocoacasts.com/courses/mastering-core-data-with-swift-3/lectures/1650670
 
 import UIKit
 
